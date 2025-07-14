@@ -22,7 +22,7 @@ Hola soy Luis Miguel Lopes, tengo 21 años ya actualmente estoy cursando el segu
 
 ---
 ### 💻Lenguajes y Tecnologias
-
+<p align="center">
 <img 
     align="center" 
     alt="HTML5" 
@@ -87,6 +87,7 @@ Hola soy Luis Miguel Lopes, tengo 21 años ya actualmente estoy cursando el segu
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
 />   
+</p>
 <br/>
 <br/>
 
