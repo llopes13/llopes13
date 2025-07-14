@@ -3,7 +3,7 @@
 
 Hola soy Luis Miguel Lopes, tengo 21 años ya actualmente estoy cursando el segundo año de Desarrollo de Aplicaciones Web.
 
-<p align="left">
+<p align="center">
     <a href="https://www.instagram.com/llopes.dev">
         <img 
             alt="Instagram" 
